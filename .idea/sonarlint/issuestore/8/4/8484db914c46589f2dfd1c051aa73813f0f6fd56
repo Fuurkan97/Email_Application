@@ -1,0 +1,19 @@
+
+6
+java:S1700"Rename field "email"(ª«Õìùÿÿÿÿ8Ø·¡¡²1
+>
+java:S1170"!Make this final field static too.(¼å™ê8ß·¡¡²1
+
+java:S1450	"]Remove the "alternateEmail" field and declare it as a local variable in the relevant methods.(¢­‰ïıÿÿÿÿ8ß·¡¡²1
+G	java:S106"+Replace this use of System.out by a logger.(Òœñá8â·¡¡²1
+L	java:S106"+Replace this use of System.out by a logger.(˜§¯êıÿÿÿÿ8â·¡¡²1
+G	java:S106"+Replace this use of System.out by a logger.(İÇšÙ8â·¡¡²1
+L	java:S106"+Replace this use of System.out by a logger.(ˆ¤´Ãøÿÿÿÿ8ã·¡¡²1
+_
+java:S1117"=Rename "department" which hides the field declared at line 6.(¢¥Ô¿ÿÿÿÿÿ8ã·¡¡²1
+X
+java:S1117&";Rename "password" which hides the field declared at line 5.(«ÒÆ–8ã·¡¡²1
+K
+java:S2140(")Use "java.util.Random.nextInt()" instead.(ÄÊíüÿÿÿÿ8ã·¡¡²1
+T
+java:S1068	"2Remove this unused "alternateEmail" private field.(¢­‰ïıÿÿÿÿ8å·¡¡²1
